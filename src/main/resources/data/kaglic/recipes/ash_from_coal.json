@@ -1,0 +1,10 @@
+{
+  "type": "kaglic:coal_generator",
+  "ingredients": [
+    {"item": "minecraft:coal"}
+  ],
+  "output": {
+    "count": 1,
+    "item": "kaglic:ash_dust"
+  }
+}

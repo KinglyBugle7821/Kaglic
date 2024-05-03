@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "kaglic:block/injection_molding_machine_end",
+    "east": "kaglic:block/injection_molding_machine_side",
+    "north": "kaglic:block/injection_molding_machine_front",
+    "particle": "kaglic:block/injection_molding_machine_front",
+    "south": "kaglic:block/injection_molding_machine_side",
+    "up": "kaglic:block/injection_molding_machine_end",
+    "west": "kaglic:block/injection_molding_machine_side"
+  }
+}

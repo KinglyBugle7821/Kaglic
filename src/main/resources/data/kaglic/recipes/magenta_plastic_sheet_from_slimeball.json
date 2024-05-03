@@ -1,0 +1,11 @@
+{
+  "type": "kaglic:injection_molding",
+  "ingredients": [
+    {"item": "minecraft:magenta_dye"},
+    {"item": "minecraft:slime_ball"}
+  ],
+  "output": {
+    "count": 1,
+    "item": "kaglic:magenta_plastic_sheet"
+  }
+}

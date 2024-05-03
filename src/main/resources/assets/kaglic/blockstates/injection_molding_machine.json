@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "kaglic:block/injection_molding_machine"},
+    "facing=east": { "model":  "kaglic:block/injection_molding_machine", "y":  90},
+    "facing=south": { "model":  "kaglic:block/injection_molding_machine", "y": 180},
+    "facing=west": { "model":  "kaglic:block/injection_molding_machine", "y": 270}
+  }
+}

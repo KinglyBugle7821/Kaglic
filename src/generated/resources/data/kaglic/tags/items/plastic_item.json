@@ -1,0 +1,21 @@
+{
+  "values": [
+    "kaglic:plastic_sheet",
+    "kaglic:white_plastic_sheet",
+    "kaglic:red_plastic_sheet",
+    "kaglic:orange_plastic_sheet",
+    "kaglic:pink_plastic_sheet",
+    "kaglic:yellow_plastic_sheet",
+    "kaglic:lime_plastic_sheet",
+    "kaglic:green_plastic_sheet",
+    "kaglic:light_blue_plastic_sheet",
+    "kaglic:cyan_plastic_sheet",
+    "kaglic:blue_plastic_sheet",
+    "kaglic:magenta_plastic_sheet",
+    "kaglic:purple_plastic_sheet",
+    "kaglic:brown_plastic_sheet",
+    "kaglic:gray_plastic_sheet",
+    "kaglic:light_gray_plastic_sheet",
+    "kaglic:black_plastic_sheet"
+  ]
+}

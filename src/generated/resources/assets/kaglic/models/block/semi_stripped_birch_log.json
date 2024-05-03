@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kaglic:block/semi_stripped_birch_log_top",
+    "side": "kaglic:block/semi_stripped_birch_log"
+  }
+}

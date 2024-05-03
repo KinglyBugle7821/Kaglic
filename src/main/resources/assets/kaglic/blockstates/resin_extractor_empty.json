@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "kaglic:block/resin_extractor_empty"},
+    "facing=east": { "model":  "kaglic:block/resin_extractor_empty", "y":  90},
+    "facing=south": { "model":  "kaglic:block/resin_extractor_empty", "y": 180},
+    "facing=west": { "model":  "kaglic:block/resin_extractor_empty", "y": 270}
+  }
+}

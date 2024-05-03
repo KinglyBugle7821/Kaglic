@@ -1,0 +1,11 @@
+
+  "type": "kaglic:injection_molding",
+  "ingredients": [
+    {"item": "minecraft:light_gray_dye"},
+    {"item": "minecraft:slime_ball"}
+  ],
+  "output": {
+    "count": 1,
+    "item": "kaglic:light_gray_plastic_sheet"
+  }
+}

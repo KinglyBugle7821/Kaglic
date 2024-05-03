@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "kaglic:block/coal_generator_end",
+    "east": "kaglic:block/coal_generator_side",
+    "north": "kaglic:block/coal_generator_front",
+    "particle": "kaglic:block/coal_generator_front",
+    "south": "kaglic:block/coal_generator_side",
+    "up": "kaglic:block/coal_generator_end",
+    "west": "kaglic:block/coal_generator_side"
+  }
+}

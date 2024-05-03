@@ -1,0 +1,44 @@
+{
+
+  "item.kaglic.crude_oil_bucket": "Crude Oil Bucket",
+  "item.kaglic.bark_spud": "Bark Spud",
+  "item.kaglic.resin_ball": "Resin Ball",
+  "item.kaglic.ash_dust": "Ash Dust",
+
+  "item.kaglic.plastic_sheet": "Plastic Sheet",
+  "item.kaglic.white_plastic_sheet": "White Plastic Sheet",
+  "item.kaglic.red_plastic_sheet": "Red Plastic Sheet",
+  "item.kaglic.orange_plastic_sheet": " Orange Plastic Sheet",
+  "item.kaglic.pink_plastic_sheet": "Pink Plastic Sheet",
+  "item.kaglic.yellow_plastic_sheet": "Yellow Plastic Sheet",
+  "item.kaglic.lime_plastic_sheet": "Lime Plastic Sheet",
+  "item.kaglic.green_plastic_sheet": "Green Plastic Sheet",
+  "item.kaglic.light_blue_plastic_sheet": "Light Blue Plastic Sheet",
+  "item.kaglic.cyan_plastic_sheet": "Cyan Plastic Sheet",
+  "item.kaglic.blue_plastic_sheet": "Blue Plastic Sheet",
+  "item.kaglic.magenta_plastic_sheet": "Magenta Plastic Sheet",
+  "item.kaglic.purple_plastic_sheet": "Purple Plastic Sheet",
+  "item.kaglic.brown_plastic_sheet": "Brown Plastic Sheet",
+  "item.kaglic.gray_plastic_sheet": "Gray Plastic Sheet",
+  "item.kaglic.light_gray_plastic_sheet": "Light Gray Plastic Sheet",
+  "item.kaglic.black_plastic_sheet": "Black Plastic Sheet",
+
+  "block.kaglic.injection_molding_machine": "Injection Molding Machine",
+  "block.kaglic.coal_generator": "Coal Generator",
+
+  "block.kaglic.semi_stripped_oak_log": "Semi Stripped Oak Log",
+  "block.kaglic.semi_stripped_dark_oak_log": "Semi Stripped Dark Oak Log",
+  "block.kaglic.semi_stripped_acacia_log": "Semi Stripped Acacia Log",
+  "block.kaglic.semi_stripped_cherry_log": "Semi Stripped Cherry Log",
+  "block.kaglic.semi_stripped_birch_log": "Semi Stripped Birch Log",
+  "block.kaglic.semi_stripped_jungle_log": "Semi Stripped Jungle Log",
+  "block.kaglic.semi_stripped_spruce_log": "Semi Stripped Spruce Log",
+  "block.kaglic.semi_stripped_warped_stem": "Semi Stripped Warped Stem",
+  "block.kaglic.semi_stripped_crimson_stem": "Semi Stripped Crimson Stem",
+  "block.kaglic.semi_stripped_mangrove_log": "Semi Stripped Mangrove Log",
+
+  "block.kaglic.resin_extractor_empty": "Resin Extractor",
+  "block.kaglic.resin_extractor_full": "Resin Extractor",
+
+  "creativetab.kaglic_tab": "Kaglic"
+}

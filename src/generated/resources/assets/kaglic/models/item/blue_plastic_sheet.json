@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kaglic:item/blue_plastic_sheet"
+  }
+}

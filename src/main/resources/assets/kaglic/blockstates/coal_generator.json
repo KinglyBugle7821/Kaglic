@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "kaglic:block/coal_generator"},
+    "facing=east": { "model":  "kaglic:block/coal_generator", "y":  90},
+    "facing=south": { "model":  "kaglic:block/coal_generator", "y": 180},
+    "facing=west": { "model":  "kaglic:block/coal_generator", "y": 270}
+  }
+}

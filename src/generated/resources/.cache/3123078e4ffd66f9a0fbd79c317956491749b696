@@ -1,0 +1,8 @@
+// 1.20.1	2024-04-26T17:31:46.5933042	Tags for minecraft:block mod id kaglic
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
+6de82ab47fe9001811a63ec8d334c45ab92ecb79 data/minecraft/tags/blocks/logs_that_burn.json
+343d57e328a774188195d7edf224f202f09245e2 data/minecraft/tags/blocks/mineable/axe.json
+871f5fadb0402cd24adff0b230918f5cb1d08835 data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json

@@ -1,0 +1,11 @@
+{
+  "type": "kaglic:injection_molding",
+  "ingredients": [
+    {"item": "minecraft:white_dye"},
+    {"item": "kaglic:resin_ball"}
+  ],
+  "output": {
+    "count": 1,
+    "item": "kaglic:white_plastic_sheet"
+  }
+}

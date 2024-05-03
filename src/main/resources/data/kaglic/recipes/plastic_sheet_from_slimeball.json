@@ -1,0 +1,11 @@
+{
+  "type": "kaglic:injection_molding",
+  "ingredients": [
+    {"item": "minecraft:coal"},
+    {"item": "minecraft:slime_ball"}
+  ],
+  "output": {
+    "count": 1,
+    "item": "kaglic:plastic_sheet"
+  }
+}

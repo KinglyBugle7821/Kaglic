@@ -1,0 +1,11 @@
+{
+  "type": "kaglic:injection_molding",
+  "ingredients": [
+    {"item": "minecraft:purple_dye"},
+    {"item": "minecraft:slime_ball"}
+  ],
+  "output": {
+    "count": 1,
+    "item": "kaglic:purple_plastic_sheet"
+  }
+}
